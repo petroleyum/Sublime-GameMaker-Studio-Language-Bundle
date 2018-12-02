@@ -1,0 +1,19 @@
+[
+	{
+        "caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+        	{
+                "caption": "GML Bundle",
+                "children":
+                [
+                    {"caption": "Enable Dynamic Complete", "command": "enable_dynamic_completion"},
+                    {"caption": "Disable Dynamic Complete", "command": "disable_dynamic_completion"}
+                ]
+            },
+		    
+		]
+    }
+]
